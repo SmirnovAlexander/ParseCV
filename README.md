@@ -1,0 +1,3 @@
+- updated slides so they not contain pictures
+- move models with tags to separate folder
+- make models names so we can search for qualification with substring of model name
